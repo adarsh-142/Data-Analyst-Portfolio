@@ -10,11 +10,28 @@ This is a space I have created to showcase my talent and knowledge through perso
 ## Index
 1. [About](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#about)<br>
 2. Personal Projects<br>
+3. Open Source Contributions<br>
 3. Educational Qualifications<br>
-4. Professional Cerifications<br>
-5. Getting In Touch<br>
+4. Professional Certifications<br>
+5. Contact Information<br>
 
 ## Personal Projects
 
+## Open Source Contributions
+- Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
+  enthusiasts to practice statistical analysis on synthetic data and to encourage dataset augmentation for different scenarios for 
+  analysis.<br>
+  
 ## Educational Qualifications
+- Brunel University London: Master of Science in Data Science and Analytics; Sep 2023 - Nov 2024<br><br>
+- Toc H Institute of Science and Technology: Bachelor of Technology in Computer Science and Engineering; Aug 2018 - Jan 2023<br>
+
+## Professional Certifications
+- Google Data Analytics Professional Certificate | Coursera; Mar 2023 - Aug 2023 (Completed)<br><br>
+- Complete Data Analyst Bootcamp From Basic to Advanced | Udemy; Sep 2024 - present<br>
+
+## Contact Information
+- Email ID: 100adreal@gmail.com
+- [Linkedin](www.linkedin.com/in/adarsh-anil-kumar-734675216)
+- [Kaggle](www.kaggle.com/adarsh0806)
 
