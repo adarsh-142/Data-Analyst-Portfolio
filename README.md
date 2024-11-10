@@ -17,7 +17,15 @@ This is a space I have created to showcase my talent and knowledge through perso
 
 ## Personal Projects
 > Segment-based Factor Significance Pipeline<br>
-> > Data: 
+> > Data: 2010 New York Hospital Inpatient Discharge Data[[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]
+> > Dimensions: 38 Columns | 2.62 Million Rows
+> > Goal: To analyze the difference between significant factors affecting a patient's Length of Stay in hospitals between Elective and Emergency Admission records.
+> > Skills Portrayed: Data Cleaning, Data Visualization, Correlation, Feature Engineering, Machine Learning, Cross-Validation, Explainable AI, Insight Reflection
+> > Technology: Python
+> > > Libraries: Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, Category Encoders, Statsmodels, XGBoost, Tensorflow, Numpy, SHAP
+> > Software Used: Google Colab
+> > Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**
+> > Files and Details: 
 
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
