@@ -1,4 +1,4 @@
-# Adarsh Anil Kumar - Data Analyst
+# Adarsh Anil Kumar - Data Analyst Portfolio
 
 ## About
 My name is Adarsh Anil Kumar. I am a postgraduate student bound to completing an MSc. degree in Data Science and Analytics. I have developed a great interest in solving questions through the cultivation of an analytical mind. Such a mindset has awakened my passion for answering questions and uncovering relevant insights.<br><br>
