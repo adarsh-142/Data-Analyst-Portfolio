@@ -16,6 +16,8 @@ This is a space I have created to showcase my talent and knowledge through perso
 5. [Contact Information](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#contact-information)<br>
 
 ## Personal Projects
+> Segment-based Factor Significance Pipeline<br>
+> > Data: 
 
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
