@@ -20,7 +20,7 @@ This is a space I have created to showcase my talent and knowledge through perso
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
   enthusiasts to practice statistical analysis on synthetic data and to encourage dataset augmentation for different scenarios for 
-  analysis.[Link](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)<br>
+  analysis. [[Link](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]<br>
   
 ## Educational Qualifications
 - Brunel University London: Master of Science in Data Science and Analytics; Sep 2023 - Nov 2024<br><br>
