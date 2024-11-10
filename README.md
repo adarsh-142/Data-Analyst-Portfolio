@@ -16,7 +16,7 @@ This is a space I have created to showcase my talent and knowledge through perso
 5. [Contact Information](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#contact-information)<br>
 
 ## Personal Projects
-- Segment-based Factor Significance Pipeline<br>
+- <u>Segment-based Factor Significance Pipeline</u><br>
   - Data: 2010 New York Hospital Inpatient Discharge Data[[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]<br><br>
   - Dimensions: 38 Columns | 2.62 Million Rows<br><br>
   - Goal: To analyze the difference between significant factors affecting a patient's Length of Stay in hospitals between Elective and Emergency Admission records.<br><br>
