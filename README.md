@@ -9,18 +9,18 @@ This is a space I have created to showcase my talent and knowledge through perso
 
 ## Index
 1. [About](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#about)<br>
-2. Personal Projects<br>
-3. Open Source Contributions<br>
-3. Educational Qualifications<br>
-4. Professional Certifications<br>
-5. Contact Information<br>
+2. [Personal Projects](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#personal-projects)<br>
+3. [Open Source Contributions](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#open-source-contributions)<br>
+3. [Educational Qualifications](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#educational-qualifications)<br>
+4. [Professional Certifications](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#professional-certifications)<br>
+5. [Contact Information](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#contact-information)<br>
 
 ## Personal Projects
 
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
   enthusiasts to practice statistical analysis on synthetic data and to encourage dataset augmentation for different scenarios for 
-  analysis.<br>
+  analysis.[Link](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)<br>
   
 ## Educational Qualifications
 - Brunel University London: Master of Science in Data Science and Analytics; Sep 2023 - Nov 2024<br><br>
