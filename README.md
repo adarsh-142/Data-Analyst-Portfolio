@@ -8,3 +8,13 @@ I take delight in taking on new projects to reinforce the skills that I have lea
 This is a space I have created to showcase my talent and knowledge through personal work while picking up on mistakes made prior to help publish more higher quality projects in the future.<br><br>
 
 ## Index
+1. [About](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#about)<br>
+2. Personal Projects<br>
+3. Educational Qualifications<br>
+4. Professional Cerifications<br>
+5. Getting In Touch<br>
+
+## Personal Projects
+
+## Educational Qualifications
+
