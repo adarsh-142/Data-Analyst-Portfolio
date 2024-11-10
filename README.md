@@ -31,7 +31,7 @@ This is a space I have created to showcase my talent and knowledge through perso
 - Complete Data Analyst Bootcamp From Basic to Advanced | Udemy; Sep 2024 - present<br>
 
 ## Contact Information
-- Email ID: 100adreal@gmail.com
-- [Linkedin](www.linkedin.com/in/adarsh-anil-kumar-734675216)
-- [Kaggle](www.kaggle.com/adarsh0806)
+- 100adreal@gmail.com
+- [Linkedin](https://www.linkedin.com/in/adarsh-anil-kumar-734675216)
+- [Kaggle](https://www.kaggle.com/adarsh0806)
 
