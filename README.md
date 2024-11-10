@@ -17,7 +17,7 @@ This is a space I have created to showcase my talent and knowledge through perso
 
 ## Personal Projects
 - **Segment-based Factor Significance Pipeline**<br><br>
-  - Data: 2010 New York Hospital Inpatient Discharge Data[[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]<br><br>
+  - Data: 2010 New York Hospital Inpatient Discharge Data [[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]<br><br>
   - Dimensions: 38 Columns | 2.62 Million Rows<br><br>
   - Goal: To analyze the difference between significant factors affecting a patient's Length of Stay in hospitals between Elective and Emergency Admission records.<br><br>
   - Skills Portrayed: Data Cleaning, Data Visualization, Correlation, Feature Engineering, Machine Learning, Cross-Validation, Explainable AI, Insight Reflection<br><br>
