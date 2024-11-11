@@ -28,7 +28,7 @@ This is a space I have created to showcase my talent and knowledge through perso
   - Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**<br><br>
   - [[Files and Documentation](https://github.com/adarsh-142/Projects/tree/main/Segment-based%20Factor%20Analysis%20with%20ML%20Regression%20and%20XAI%20Implementation)]<br><br>
 
-- **ETL Process Simulation with Dashboard Visualization**<br><br>
+- **ETL Data Analysis with Dashboard Visualization**<br><br>
   - Data: Coffee Beans Sales Raw Data [[Source](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)]<br><br>
   - Dimensions: Customers (9 Columns | 1000 Rows); Orders (5 Columns | 1000 Rows); Products (7 Columns | 48 Rows)<br><br>
   - Goal: To identify the most profitable coffee type and related sales inferences from all coffee products sold over a 43-month time period across UK, USA and Ireland through the use of a dashboard visualization.<br><br>
