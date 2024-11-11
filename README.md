@@ -40,7 +40,7 @@ This is a space I have created to showcase my talent and knowledge through perso
   - Files and Details:<br>
 
 - **Experimental Design and Analysis for Performance Evaluation**<br><br>
-  - Data: Self-Generated A/B Testing Dataset [[Source](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]
+  - Data: Self-Generated A/B Testing Dataset [[Source](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]<br><br>
   - Dimensions: 7 Columns | 5000 Rows<br><br>
   - Goal: To obtain the lift between control group and treatment group <br><br>
   - Purpose: Developed as a project to practice and comprehend A/B testing.<br><br>
