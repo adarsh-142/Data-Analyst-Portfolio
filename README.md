@@ -30,7 +30,7 @@ This is a space I have created to showcase my talent and knowledge through perso
 
 - **ETL Data Analysis with Dashboard Visualization**<br><br>
   - Data: Coffee Beans Sales Raw Data [[Source](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)]<br><br>
-  - Dimensions: Customers (9 Columns | 1000 Rows); Orders (5 Columns | 1000 Rows); Products (7 Columns | 48 Rows)<br><br>
+  - Dimensions: Customers (9 Columns | 1000 Rows); Orders (13 Columns | 1000 Rows); Products (7 Columns | 48 Rows)<br><br>
   - Goal: To identify the most profitable coffee type and related sales inferences from all coffee products sold over a 43-month time period across UK, USA and Ireland through the use of a dashboard visualization.<br><br>
   - Purpose: To provide a base of insights over which the company could act upon to optimize sales and profit for their coffee products.<br><br>
   - Skills Portrayed: Data Extraction, SQL Queries, SQL Table Joins, SQL Common Table Expressions, Power Query Data Transformation, BI Data Visualization, DAX Queries<br><br>
