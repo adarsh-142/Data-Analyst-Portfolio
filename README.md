@@ -19,13 +19,37 @@ This is a space I have created to showcase my talent and knowledge through perso
 - **Segment-based Factor Analysis with ML Regression & XAI Implementation**<br><br>
   - Data: 2010 New York Hospital Inpatient Discharge Data [[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]<br><br>
   - Dimensions: 38 Columns | 2.62 Million Rows<br><br>
-  - Goal: To analyze the difference between significant factors affecting a patient's Length of Stay in hospitals between Elective and Emergency Admission records.<br><br>
+  - Goal: To analyze the difference between significant factors affecting a patient's Length of Stay (LoS) in hospitals between Elective and Emergency Admission records.<br><br>
+  - Purpose: To emphasize clinical decision making, which in turn can help address on how to better handle and optimize LoS for patients coming under both admission types.<br><br>
   - Skills Portrayed: Data Cleaning, Data Visualization, Correlation, Feature Engineering, Machine Learning, Cross-Validation, Explainable AI, Insight Reflection<br><br>
   - Technology: Python<br><br>
     - Libraries: Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, Category Encoders, Statsmodels, XGBoost, Tensorflow, Numpy, SHAP<br><br>
   - Software Used: Google Colab<br><br>
   - Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**<br><br>
-  - Files and Details: 
+  - Files and Details:
+
+- **ETL Process Simulation with Dashboard Visualization**<br><br>
+  - Data: Coffee Beans Sales Raw Data [[Source](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)]<br><br>
+  - Dimensions: Customers (9 Columns | 1000 Rows); Orders (5 Columns | 1000 Rows); Products (7 Columns | 48 Rows)<br><br>
+  - Goal: To identify the most profitable coffee type and related sales inferences from all coffee products sold over a 43-month time period across UK, USA and Ireland.<br><br>
+  - Purpose: To provide a base of insights over which the company could act upon to optimize sales and profit for their coffee products.<br><br>
+  - Skills Portrayed: Data Extraction, SQL Queries, SQL Table Joins, SQL Common Table Expressions, Power Query Data Transformation, BI Data Visualization, DAX Queries<br><br>
+  - Technology: SQL, Excel and Power BI<br><br>
+  - Software Used: Microsoft SQL Server, Microsoft Excel, Microsoft Power BI<br><br>
+  - Result: **Found Arabica to be the most profitable coffee type among all coffee products with a profit margin of 72%**<br><br>
+  - Files and Details:
+
+- **Experimental Design and Analysis for Performance Evaluation**<br><br>
+  - Data: Self-Generated A/B Dataset
+  - Dimensions: 7 Columns | 5000 Rows<br><br>
+  - Goal: To obtain the improvement percentage between control group and treatment group <br><br>
+  - Purpose: To emphasize clinical decision making, which in turn can help address on how to better handle and optimize LoS for patients coming under both admission types.<br><br>
+  - Skills Portrayed: Data Cleaning, Data Visualization, Correlation, Feature Engineering, Machine Learning, Cross-Validation, Explainable AI, Insight Reflection<br><br>
+  - Technology: Python<br><br>
+    - Libraries: Pandas, Numpy, Scipy,<br><br>
+  - Software Used: Google Colab<br><br>
+  - Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**<br><br>
+  - Files and Details:
 
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
