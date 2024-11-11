@@ -26,7 +26,7 @@ This is a space I have created to showcase my talent and knowledge through perso
     - Libraries: Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, Category Encoders, Statsmodels, XGBoost, Tensorflow, Numpy, SHAP<br><br>
   - Software Used: Google Colab<br><br>
   - Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**<br><br>
-  - Files and Details:<br>
+  - Files and Details:<br><br>
 
 - **ETL Process Simulation with Dashboard Visualization**<br><br>
   - Data: Coffee Beans Sales Raw Data [[Source](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)]<br><br>
@@ -37,7 +37,7 @@ This is a space I have created to showcase my talent and knowledge through perso
   - Technology: SQL, Excel and Power BI<br><br>
   - Software Used: Microsoft SQL Server, Microsoft Excel, Microsoft Power BI<br><br>
   - Result: **Found Arabica to be the most profitable coffee type among all coffee products with a profit margin of 72%**<br><br>
-  - Files and Details:<br>
+  - Files and Details:<br><br>
 
 - **Experimental Design and Analysis for Performance Evaluation**<br><br>
   - Data: Self-Generated A/B Testing Dataset [[Source](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]<br><br>
@@ -49,7 +49,7 @@ This is a space I have created to showcase my talent and knowledge through perso
     - Libraries: Pandas, Numpy, Scipy<br><br>
   - Software Used: Visual Studio Code<br><br>
   - Result: **Found a significant difference between conversion rates of both groups while achieving a lift of 160.548%, highlighting the significant improvement made through the treatment group while compared to the control group.**<br><br>
-  - Files and Details:<br>
+  - Files and Details:<br><br>
 
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
