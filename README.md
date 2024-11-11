@@ -58,7 +58,7 @@ This is a space I have created to showcase my talent and knowledge through perso
   
 ## Educational Qualifications
 - Brunel University London: Master of Science in Data Science and Analytics; Sep 2023 - Nov 2024<br><br>
-- Toc H Institute of Science and Technology: Bachelor of Technology in Computer Science and Engineering; Aug 2018 - Jan 2023<br>
+- Toc H Institute of Science and Technology, Kerala, India: Bachelor of Technology in Computer Science and Engineering; Aug 2018 - Jan 2023<br>
 
 ## Professional Certifications
 - Google Data Analytics Professional Certificate | Coursera; Mar 2023 - Aug 2023 (Completed)<br><br>
