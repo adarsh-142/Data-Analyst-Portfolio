@@ -63,8 +63,8 @@ This is a space I have created to showcase my talent and knowledge through perso
 - Toc H Institute of Science and Technology, Kerala, India: Bachelor of Technology in Computer Science and Engineering; Aug 2018 - Jan 2023<br>
 
 ## Professional Certifications
-- Google Data Analytics Professional Certificate | Coursera; Mar 2023 - Aug 2023<br><br>
 - Complete Data Analyst Bootcamp From Basic to Advanced | Udemy; Sep 2024 - Feb 2025<br>
+- Google Data Analytics Professional Certificate | Coursera; Mar 2023 - Aug 2023<br><br>
 
 ## Contact Information
 - 100adreal@gmail.com
