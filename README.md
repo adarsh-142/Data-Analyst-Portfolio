@@ -16,18 +16,6 @@ This is a space I have created to showcase my talent and knowledge through perso
 5. [Contact Information](https://github.com/adarsh-142/DA-Portfolio/blob/main/README.md#contact-information)<br>
 
 ## Personal Projects
-- **Segment-based Factor Analysis with ML Regression & XAI Implementation**<br><br>
-  - Data: 2010 New York Hospital Inpatient Discharge Data [[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]<br><br>
-  - Dimensions: 38 Columns | 2.62 Million Rows<br><br>
-  - Goal: To analyze the difference between significant factors affecting a patient's Length of Stay (LoS) in hospitals between Elective and Emergency Admission records.<br><br>
-  - Purpose: To emphasize clinical decision making, which in turn can help address on how to better handle and optimize LoS for patients coming under both admission types.<br><br>
-  - Skills Portrayed: Python Programming, Data Cleaning, Data Visualization, Correlation, Feature Engineering, Machine Learning, Cross-Validation, Explainable AI, Insight Reflection<br><br>
-  - Technology: Python<br><br>
-    - Libraries: Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, Category Encoders, Statsmodels, XGBoost, Tensorflow, Numpy, SHAP<br><br>
-  - Software Used: Google Colab<br><br>
-  - Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**<br><br>
-  - [[Files and Documentation](https://github.com/adarsh-142/Projects/tree/main/Segment-based%20Factor%20Analysis%20with%20ML%20Regression%20and%20XAI%20Implementation)]<br><br>
-
 - **ETL Data Analysis with Dashboard Visualization**<br><br>
   - Data: Coffee Beans Sales Raw Data [[Source](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)]<br><br>
   - Dimensions: Customers (9 Columns | 1000 Rows); Orders (13 Columns | 1000 Rows); Products (7 Columns | 48 Rows)<br><br>
@@ -39,17 +27,17 @@ This is a space I have created to showcase my talent and knowledge through perso
   - Result: **Found Arabica to be the most profitable coffee type among all coffee products with a profit margin of 72%**<br><br>
   - [[Files and Documentation](https://github.com/adarsh-142/Projects/tree/main/ETL%20Data%20Analysis%20with%20Dashboard%20Visualization)]<br><br>
 
-- **Experimental Design and Analysis for Performance Evaluation**<br><br>
-  - Data: Self-Generated A/B Testing Dataset [[Uploaded Source](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]<br><br>
-  - Dimensions: 7 Columns | 5000 Rows<br><br>
-  - Goal: To obtain the lift between control group and treatment group <br><br>
-  - Purpose: Developed as a project to practice and comprehend A/B testing.<br><br>
-  - Skills Portrayed: Python Programming, Random Sampling, Hypothesis Testing, Statistics, Data <br><br>
+- **Segment-based Factor Analysis with ML Regression & XAI Implementation**<br><br>
+  - Data: 2010 New York Hospital Inpatient Discharge Data [[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]<br><br>
+  - Dimensions: 38 Columns | 2.62 Million Rows<br><br>
+  - Goal: To analyze the difference between significant factors affecting a patient's Length of Stay (LoS) in hospitals between Elective and Emergency Admission records.<br><br>
+  - Purpose: To emphasize clinical decision making, which in turn can help address on how to better handle and optimize LoS for patients coming under both admission types.<br><br>
+  - Skills Portrayed: Python Programming, Data Cleaning, Data Visualization, Correlation, Feature Engineering, Machine Learning, Cross-Validation, Explainable AI, Insight Reflection<br><br>
   - Technology: Python<br><br>
-    - Libraries: Pandas, Numpy, Scipy<br><br>
-  - Software Used: Visual Studio Code<br><br>
-  - Result: **Found a significant difference between conversion rates of both groups while achieving a lift of 160.548%, highlighting the significant improvement made through the treatment group while compared to the control group.**<br><br>
-  - [[Files and Documentation](https://github.com/adarsh-142/Projects/tree/main/Experimental%20Design%20and%20Analysis%20for%20Performance%20E)]<br><br>
+    - Libraries: Pandas, Matplotlib, Seaborn, Scikit-Learn, SciPy, Category Encoders, Statsmodels, XGBoost, Tensorflow, Numpy, SHAP<br><br>
+  - Software Used: Google Colab<br><br>
+  - Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**<br><br>
+  - [[Files and Documentation](https://github.com/adarsh-142/Projects/tree/main/Segment-based%20Factor%20Analysis%20with%20ML%20Regression%20and%20XAI%20Implementation)]<br><br>
 
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, enabling data enthusiasts to practice statistical analysis on 
