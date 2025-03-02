@@ -55,6 +55,8 @@ This is a space I have created to showcase my talent and knowledge through perso
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
   enthusiasts to practice statistical analysis on synthetic data and to encourage dataset augmentation for different scenarios for 
   analysis. [[Link](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]<br>
+- Contributed a self-generated dataset to Kaggle for Global Sales Retail Analysis, enabling data enthusiasts to practice leveraging 
+  either Sentiment Analysis, Time Series Analysis or both. [[Link](https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales)]<br>
   
 ## Educational Qualifications
 - Brunel University London: Master of Science in Data Science and Analytics; Sep 2023 - Nov 2024<br><br>
@@ -62,7 +64,7 @@ This is a space I have created to showcase my talent and knowledge through perso
 
 ## Professional Certifications
 - Google Data Analytics Professional Certificate | Coursera; Mar 2023 - Aug 2023<br><br>
-- Complete Data Analyst Bootcamp From Basic to Advanced | Udemy; Sep 2024 - present<br>
+- Complete Data Analyst Bootcamp From Basic to Advanced | Udemy; Sep 2024 - Feb 2025<br>
 
 ## Contact Information
 - 100adreal@gmail.com
