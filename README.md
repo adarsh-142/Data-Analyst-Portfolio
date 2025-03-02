@@ -52,11 +52,12 @@ This is a space I have created to showcase my talent and knowledge through perso
   - [[Files and Documentation](https://github.com/adarsh-142/Projects/tree/main/Experimental%20Design%20and%20Analysis%20for%20Performance%20E)]<br><br>
 
 ## Open Source Contributions
-- Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, also utilized in a personal project, on Kaggle, enabling data 
-  enthusiasts to practice statistical analysis on synthetic data and to encourage dataset augmentation for different scenarios for 
-  analysis. [[Link](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]<br>
+- Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, enabling data enthusiasts to practice statistical analysis on 
+  synthetic data and to encourage dataset augmentation for different scenarios for analysis. The dataset had amassed 4358 views and 640 
+  downloads whilst achieving a Bronze medal(as of 2nd March 2025). [[Link](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice)]<br>
 - Contributed a self-generated dataset to Kaggle for Global Sales Retail Analysis, enabling data enthusiasts to practice leveraging 
-  either Sentiment Analysis, Time Series Analysis or both. [[Link](https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales)]<br>
+  either Sentiment Analysis, Time Series Analysis or both. The dataset had amassed 8743 views and 1941 downloads whilst achieving a 
+  Bronze medal(as of 2nd March 2025). [[Link](https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales)]<br>
   
 ## Educational Qualifications
 - Brunel University London: Master of Science in Data Science and Analytics; Sep 2023 - Nov 2024<br><br>
