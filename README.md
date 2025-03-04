@@ -22,7 +22,7 @@ This is a space I have created to showcase my talent and knowledge through perso
   - Goal: To suggest effective decision making that may reduce the likelihood of a taxi trip fare getting refunded through an analysis of trends regarding refunded trips and trip disputes.<br><br>
   - Purpose: To provide a set of effective decisions over which taxi companies could act upon to reduce the chance of a taxi trip fare getting refunded.<br><br>
   - Skills Portrayed: Data Extraction, Data File Type Conversion, Cloud Storage, Data Warehousing, SQL Queries, SQL Table Joins, SQL Common Table Expressions, SQL Data Manipulation, SQL Data Cleaning, SQL Feature Engineering, BI Data Visualization, DAX Queries, Insight Reflection<br><br>
-  - Technology: Amazon S3, Snowflake and Power BI<br><br>
+  - Technology: Jupyter Notebooks, Amazon S3, Snowflake and Power BI<br><br>
   - Result: **Found JFK Airport pickup trips and trips to outside New York City to be the main source of trip disputes and refunded trip fares.**<br><br>
   - [[Files and Documentation]()]<br><br>
 
