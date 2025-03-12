@@ -37,7 +37,7 @@ This is a space I have created to showcase my talent and knowledge through perso
   - Software Used: Google Colab<br><br>
   - Result: **Found inconsistencies between feature importance rankings of both admission types with Hospital Operational Charges and Patient Bills being the top 2 consistently significant factors affecting LoS for both types while Surgeries for patients under Elective Admission is more significant compared to those under Emergency Admission circumstances.**<br><br>
   - Action upon Results: **Made seperate suggestions for both Admission based on most significant factors to help better optimize LoS for patients under both admission types and smoothen the workflow.**<br><br>
-  - [[Files and Documentation](https://github.com/adarsh-142/Projects/tree/main/Segment-based%20Factor%20Analysis%20with%20ML%20Regression%20and%20XAI%20Implementation)]<br><br>
+  - [[Files and Documentation]((https://github.com/adarsh-142/Segment-based-Factor-Analysis-with-ML-Regression-And-XAI-Implementation))]<br><br>
 
 ## Open Source Contributions
 - Contributed a self-generated dataset to Kaggle for A/B Testing Analysis, enabling data enthusiasts to practice statistical analysis on 
