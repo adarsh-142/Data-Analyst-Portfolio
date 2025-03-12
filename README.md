@@ -24,7 +24,7 @@ This is a space I have created to showcase my talent and knowledge through perso
   - Skills Portrayed: Data Extraction, Data File Type Conversion, Cloud Storage, Data Warehousing, SQL Queries, SQL Table Joins, SQL Common Table Expressions, SQL Data Manipulation, SQL Data Cleaning, SQL Feature Engineering, BI Data Visualization, DAX Queries, Insight Reflection<br><br>
   - Technology: Jupyter Notebooks, Amazon S3, Snowflake and Power BI<br><br>
   - Result: **Found JFK Airport pickup trips and trips to outside New York City to be the main source of trip disputes and refunded trip fares.**<br><br>
-  - [[Files and Documentation]()]<br><br>
+  - [[Files and Documentation](https://github.com/adarsh-142/Cloud-based-Static-ETL-Taxi-Data-Pipeline-with-Power-BI-Reporting)]<br><br>
 
 - **Segment-based Factor Analysis with ML Regression & XAI Implementation**<br><br>
   - Data: 2010 New York Hospital Inpatient Discharge Data [[Source](https://www.kaggle.com/datasets/thedevastator/2010-new-york-state-hospital-inpatient-discharge)]<br><br>
